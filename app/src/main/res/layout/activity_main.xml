@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:text="Usuário"
         android:textAllCaps="true"
-        android:textColor="#000"
+        android:textColor="@color/corTitulo"
         android:textSize="25sp"
         android:textStyle="bold" />
 
@@ -37,7 +37,7 @@
         android:layout_marginTop="10dp"
         android:text="Senha"
         android:textAllCaps="true"
-        android:textColor="#000"
+        android:textColor="@color/corTitulo"
         android:textSize="25sp"
         android:textStyle="bold" />
 
@@ -57,6 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sair" />
+
 
 
 </LinearLayout>
