@@ -4,5 +4,7 @@
     <string name="senha">Senha</string>
     <string name="entrar">Entrar</string>
     <string name="sair">Sair</string>
+    <string name="insira_o_usu_rio">Insira o usuário</string>
+    <string name="insira_a_senha">Insira a senha</string>
 
 </resources>
